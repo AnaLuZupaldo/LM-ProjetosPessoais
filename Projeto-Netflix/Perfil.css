@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Karantina',cursive;
+}
+body{
+    display: flex;
+    background-color: #141414;
+    
+}
+.perfis{
+    display: block;
+    width: 190px;
+    position: relative;
+    height: 150px;
+    background-color:black;
+    margin: 270px 30px;
+    border-radius: 50%;
+   
+}
+#plus{
+    background-color:black;
+    
+}
+#ad{
+    margin-left: 38px;
+}
+#first{
+    margin-left: 320px;
+}
+.perfis a{
+    position: relative;
+    top: 20px;
+    margin-left: 52px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.perfis img{
+    width: 100%;
+    
+}
+.titulo h1{
+    color: white;
+    text-decoration: none;
+}
